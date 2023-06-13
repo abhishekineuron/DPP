@@ -1,1 +1,1 @@
-## MAchine Learning Projects
+## MAchine Learning Project
